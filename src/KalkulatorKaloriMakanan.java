@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.text.DecimalFormat;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
-  
+     
 public class KalkulatorKaloriMakanan extends JFrame
         implements ActionListener, ItemListener {
 
